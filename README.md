@@ -7,6 +7,6 @@ Requirements
 
 .Install Uipath Studio
 
-.Create a Credentials Asset to in system1
+.Create a Credentials Asset to login system1
 
 .add Asset name in config
